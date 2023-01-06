@@ -29,3 +29,7 @@
 <b>Project 2.4 - Movies!:</b> Within in this project we use two different data files. To do this we use broadcast variable and user defined function. 
 
 <b>Project 2.5 - Most popular super hero:</b>In this project we use two different data files. For one file we create a schema and for the other a dataframe. With the use of these files we extract the data we need through ID's. 
+
+### <b>Project 3 - Azure Data Factory:</b>
+
+<b>For this project a data platform is build for reporting and prediction of covid-19 outbreak. Data is ectracted, transformed and loaded from a HTTP source and a file within Azure blob storage. In this project sevral data pipelines have been setup in order to schedule data movement and transformation activities. Also, in this project I show CI / CD skills. In this project I used Azure Data Factory, Databricks, Data Flow, and Azure DevOps.</b>
