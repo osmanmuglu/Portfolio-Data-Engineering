@@ -32,4 +32,4 @@
 
 ### <b>Project 3 - Azure Data Factory:</b>
 
-<b>For this project a data platform is build for reporting and prediction of covid-19 outbreak. Data is ectracted, transformed and loaded from a HTTP source and a file within Azure blob storage. In this project sevral data pipelines have been setup in order to schedule data movement and transformation activities. Also, in this project I show CI / CD skills. In this project I used Azure Data Factory, Databricks, Data Flow, and Azure DevOps.</b>
+<b>Project 1 - Covid-19</b> For this project a data platform is build for reporting and prediction of covid-19 outbreak. Data is ectracted, transformed and loaded from a HTTP source and a file within Azure blob storage. In this project sevral data pipelines have been setup in order to schedule data movement and transformation activities. Also, in this project I show CI / CD skills. In this project I used Azure Data Factory, Databricks, Data Flow, and Azure DevOps. You can check the PDF file in order to see how the project is done or check the folders. Every step is in chronological order. 
